@@ -39,7 +39,6 @@ The objective of this test case is to automate the process of navigating to the 
 2. Install the dependencies:
    ```sh
    npm install
-   ```sh
    npm init playwright@latest
    ```
 
