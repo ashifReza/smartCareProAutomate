@@ -32,7 +32,7 @@ The objective of this test case is to automate the process of navigating to the 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/health-records-automation.git
+   git clone https://github.com/ashifReza/smartCareProAutomate.git
    cd health-records-automation
    ```
 
